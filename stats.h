@@ -29,4 +29,29 @@
 #define __STATS_H__
 
 
+
+int print_array(unsigned char *test,int);
+int Find_maximum(unsigned char *test,int );
+int Find_minimum(unsigned char *test,int);
+int Find_mean(unsigned char *test,int); 
+void sort_array(unsigned char *test,int);
+float find_median(unsigned char *test,int);
+void print_statistics(unsigned char *test,int);
+
+
 #endif /* __STATS_H__ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
